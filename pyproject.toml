@@ -1,0 +1,9 @@
+[project]
+name = "hf-proxy"
+version = "0.1.0"
+description = "Small authenticated CONNECT proxy for Hugging Face hosts"
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.uv]
+package = false
